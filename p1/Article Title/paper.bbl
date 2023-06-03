@@ -1,0 +1,550 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{32}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{b.ravikiranDeepReinforcementLearning2021}
+\begin{botherref}
+\oauthor{\bsnm{{B. Ravi Kiran}}},
+\oauthor{\bsnm{Sobh}, \binits{I.}},
+\oauthor{\bsnm{Talpaert}, \binits{V.}},
+\oauthor{\bsnm{Mannion}, \binits{P.}},
+\oauthor{\bsnm{Al~Sallab}, \binits{A.A.}},
+\oauthor{\bsnm{Yogamani}, \binits{S.}},
+\oauthor{\bsnm{P{\'e}rez}, \binits{P.}}:
+Deep reinforcement learning for autonomous driving: {{A}} survey.
+IEEE Transactions on Intelligent Transportation Systems
+(2021)
+\end{botherref}
+\endbibitem
+
+%%% 2
+\bibitem{chenInterpretableEndtoEndUrban2022}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{J.}},
+\bauthor{\bsnm{Li}, \binits{S.E.}},
+\bauthor{\bsnm{Tomizuka}, \binits{M.}}:
+\batitle{Interpretable {{End-to-End Urban Autonomous Driving With Latent Deep
+  Reinforcement Learning}}}.
+\bjtitle{IEEE Transactions on Intelligent Transportation Systems}
+\bvolume{23}(\bissue{6}),
+\bfpage{5068}--\blpage{5078}
+(\byear{2022}).
+\doiurl{10.1109/TITS.2020.3046646}
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem{huangEndtoEndAutonomousDriving2019}
+\begin{bchapter}
+\bauthor{\bsnm{Huang}, \binits{Z.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Tian}, \binits{R.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}}:
+\bctitle{End-to-{{End Autonomous Driving Decision Based}} on {{Deep
+  Reinforcement Learning}}}.
+In: \bbtitle{2019 5th {{International Conference}} on {{Control}},
+  {{Automation}} and {{Robotics}} ({{ICCAR}})},
+pp. \bfpage{658}--\blpage{662}
+(\byear{2019}).
+\doiurl{10.1109/ICCAR.2019.8813431}
+\end{bchapter}
+\endbibitem
+
+%%% 4
+\bibitem{hilleliDeepReinforcementLearning2018}
+\begin{bchapter}
+\bauthor{\bsnm{Hilleli}, \binits{B.}},
+\bauthor{\bsnm{{El-Yaniv}}, \binits{R.}}:
+\bctitle{Toward deep reinforcement learning without a simulator: {{An}}
+  autonomous steering example}.
+In: \bbtitle{Proceedings of the {{AAAI Conference}} on {{Artificial
+  Intelligence}}},
+vol. \bseriesno{32}
+(\byear{2018})
+\end{bchapter}
+\endbibitem
+
+%%% 5
+\bibitem{pivtoraikoDifferentiallyConstrainedMobile2009}
+\begin{barticle}
+\bauthor{\bsnm{Pivtoraiko}, \binits{M.}},
+\bauthor{\bsnm{Knepper}, \binits{R.A.}},
+\bauthor{\bsnm{Kelly}, \binits{A.}}:
+\batitle{Differentially constrained mobile robot motion planning in state
+  lattices}.
+\bjtitle{Journal of Field Robotics}
+\bvolume{26}(\bissue{3}),
+\bfpage{308}--\blpage{333}
+(\byear{2009}).
+\doiurl{10.1002/rob.20285}
+\end{barticle}
+\endbibitem
+
+%%% 6
+\bibitem{ammarRobustPathTracking2020}
+\begin{bchapter}
+\bauthor{\bsnm{Ammar}, \binits{H.H.}},
+\bauthor{\bsnm{Azar}, \binits{A.T.}}:
+\bctitle{Robust {{Path Tracking}} of {{Mobile Robot Using Fractional Order PID
+  Controller}}}.
+In: \beditor{\bsnm{Hassanien}, \binits{A.E.}},
+\beditor{\bsnm{Azar}, \binits{A.T.}},
+\beditor{\bsnm{Gaber}, \binits{T.}},
+\beditor{\bsnm{Bhatnagar}, \binits{R.}},
+\beditor{\bsnm{F.~Tolba}, \binits{M.}} (eds.)
+\bbtitle{The {{International Conference}} on {{Advanced Machine Learning
+  Technologies}} and {{Applications}} ({{AMLTA2019}})}.
+\bsertitle{Advances in {{Intelligent Systems}} and {{Computing}}},
+pp. \bfpage{370}--\blpage{381}.
+\bpublisher{{Springer International Publishing}},
+\blocation{{Cham}}
+(\byear{2020}).
+\doiurl{10.1007/978-3-030-14118-9_37}
+\end{bchapter}
+\endbibitem
+
+%%% 7
+\bibitem{samuelReviewPurepursuitBased2016}
+\begin{barticle}
+\bauthor{\bsnm{Samuel}, \binits{M.}},
+\bauthor{\bsnm{Hussein}, \binits{M.}},
+\bauthor{\bsnm{Mohamad}, \binits{M.B.}}:
+\batitle{A review of some pure-pursuit based path tracking techniques for
+  control of autonomous vehicle}.
+\bjtitle{International Journal of Computer Applications}
+\bvolume{135}(\bissue{1}),
+\bfpage{35}--\blpage{38}
+(\byear{2016}).
+\doiurl{10.5120/ijca2016908314}
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem{sniderAutomaticSteeringMethods2009}
+\begin{botherref}
+\oauthor{\bsnm{Snider}, \binits{J.M.}}:
+Automatic steering methods for autonomous automobile path tracking.
+Robotics Institute, Pittsburgh, PA, Tech. Rep. CMU-RITR-09-08
+(2009)
+\end{botherref}
+\endbibitem
+
+%%% 9
+\bibitem{amerModellingControlStrategies2017}
+\begin{barticle}
+\bauthor{\bsnm{Amer}, \binits{N.H.}},
+\bauthor{\bsnm{Zamzuri}, \binits{H.}},
+\bauthor{\bsnm{Hudha}, \binits{K.}},
+\bauthor{\bsnm{Kadir}, \binits{Z.A.}}:
+\batitle{Modelling and {{Control Strategies}} in {{Path Tracking Control}} for
+  {{Autonomous Ground Vehicles}}: {{A Review}} of {{State}} of the {{Art}} and
+  {{Challenges}}}.
+\bjtitle{Journal of Intelligent \& Robotic Systems}
+\bvolume{86}(\bissue{2}),
+\bfpage{225}--\blpage{254}
+(\byear{2017}).
+\doiurl{10.1007/s10846-016-0442-0}
+\end{barticle}
+\endbibitem
+
+%%% 10
+\bibitem{7320765}
+\begin{bchapter}
+\bauthor{\bsnm{Tomatsu}, \binits{T.}},
+\bauthor{\bsnm{Nonaka}, \binits{K.}},
+\bauthor{\bsnm{Sekiguchi}, \binits{K.}},
+\bauthor{\bsnm{Suzuki}, \binits{K.}}:
+\bctitle{Model predictive trajectory tracking control for hydraulic excavator
+  on digging operation}.
+In: \bbtitle{2015 {{IEEE}} Conference on Control Applications ({{CCA}})},
+pp. \bfpage{1136}--\blpage{1141}
+(\byear{2015}).
+\doiurl{10.1109/CCA.2015.7320765}
+\end{bchapter}
+\endbibitem
+
+%%% 11
+\bibitem{chenMPCbasedPathTracking2020a}
+\begin{botherref}
+\oauthor{\bsnm{Chen}, \binits{S.-p.}},
+\oauthor{\bsnm{Xiong}, \binits{G.-m.}},
+\oauthor{\bsnm{Chen}, \binits{H.-y.}},
+\oauthor{\bsnm{Negrut}, \binits{D.}}:
+{{MPC-based}} path tracking with {{PID}} speed control for high-speed
+  autonomous vehicles considering time-optimal travel.
+Journal of Central South University
+\textbf{27}
+(2020).
+\doiurl{10.1007/s11771-020-4561-1}
+\end{botherref}
+\endbibitem
+
+%%% 12
+\bibitem{bojarskiEndEndLearning2016}
+\begin{botherref}
+\oauthor{\bsnm{Bojarski}, \binits{M.}},
+\oauthor{\bsnm{Del~Testa}, \binits{D.}},
+\oauthor{\bsnm{Dworakowski}, \binits{D.}},
+\oauthor{\bsnm{Firner}, \binits{B.}},
+\oauthor{\bsnm{Flepp}, \binits{B.}},
+\oauthor{\bsnm{Goyal}, \binits{P.}},
+\oauthor{\bsnm{Jackel}, \binits{L.D.}},
+\oauthor{\bsnm{Monfort}, \binits{M.}},
+\oauthor{\bsnm{Muller}, \binits{U.}},
+\oauthor{\bsnm{Zhang}, \binits{J.}}:
+End to end learning for self-driving cars.
+arXiv preprint arXiv:1604.07316
+(2016)
+{\href{https://arxiv.org/abs/1604.07316}{{arxiv:1604.07316}}}
+\end{botherref}
+\endbibitem
+
+%%% 13
+\bibitem{mullerOffroadObstacleAvoidance2005}
+\begin{botherref}
+\oauthor{\bsnm{Muller}, \binits{U.}},
+\oauthor{\bsnm{Ben}, \binits{J.}},
+\oauthor{\bsnm{Cosatto}, \binits{E.}},
+\oauthor{\bsnm{Flepp}, \binits{B.}},
+\oauthor{\bsnm{Cun}, \binits{Y.}}:
+Off-road obstacle avoidance through end-to-end learning.
+Advances in neural information processing systems
+\textbf{18}
+(2005)
+\end{botherref}
+\endbibitem
+
+%%% 14
+\bibitem{spielbergNeuralNetworkVehicle2019}
+\begin{barticle}
+\bauthor{\bsnm{Spielberg}, \binits{N.A.}},
+\bauthor{\bsnm{Brown}, \binits{M.}},
+\bauthor{\bsnm{Kapania}, \binits{N.R.}},
+\bauthor{\bsnm{Kegelman}, \binits{J.C.}},
+\bauthor{\bsnm{Gerdes}, \binits{J.C.}}:
+\batitle{Neural network vehicle models for high-performance automated driving}.
+\bjtitle{Science robotics}
+\bvolume{4}(\bissue{28}),
+\bfpage{1975}
+(\byear{2019})
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem{zhaoPathFollowingOptimization2021a}
+\begin{barticle}
+\bauthor{\bsnm{Zhao}, \binits{Y.}},
+\bauthor{\bsnm{Qi}, \binits{X.}},
+\bauthor{\bsnm{Ma}, \binits{Y.}},
+\bauthor{\bsnm{Li}, \binits{Z.}},
+\bauthor{\bsnm{Malekian}, \binits{R.}},
+\bauthor{\bsnm{Sotelo}, \binits{M.A.}}:
+\batitle{Path {{Following Optimization}} for an {{Underactuated USV Using
+  Smoothly-Convergent Deep Reinforcement Learning}}}.
+\bjtitle{IEEE Transactions on Intelligent Transportation Systems}
+\bvolume{22}(\bissue{10}),
+\bfpage{6208}--\blpage{6220}
+(\byear{2021}).
+\doiurl{10.1109/TITS.2020.2989352}
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem{koberReinforcementLearningRobotics2013}
+\begin{barticle}
+\bauthor{\bsnm{Kober}, \binits{J.}},
+\bauthor{\bsnm{Bagnell}, \binits{J.A.}},
+\bauthor{\bsnm{Peters}, \binits{J.}}:
+\batitle{Reinforcement learning in robotics: {{A}} survey}.
+\bjtitle{The International Journal of Robotics Research}
+\bvolume{32}(\bissue{11}),
+\bfpage{1238}--\blpage{1274}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem{dasilvaSurveyTransferLearning2019}
+\begin{barticle}
+\bauthor{\bsnm{Da~Silva}, \binits{F.L.}},
+\bauthor{\bsnm{Costa}, \binits{A.H.R.}}:
+\batitle{A survey on transfer learning for multiagent reinforcement learning
+  systems}.
+\bjtitle{Journal of Artificial Intelligence Research}
+\bvolume{64},
+\bfpage{645}--\blpage{703}
+(\byear{2019})
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem{lillicrapContinuousControlDeep2019}
+\begin{botherref}
+\oauthor{\bsnm{Lillicrap}, \binits{T.P.}},
+\oauthor{\bsnm{Hunt}, \binits{J.J.}},
+\oauthor{\bsnm{Pritzel}, \binits{A.}},
+\oauthor{\bsnm{Heess}, \binits{N.}},
+\oauthor{\bsnm{Erez}, \binits{T.}},
+\oauthor{\bsnm{Tassa}, \binits{Y.}},
+\oauthor{\bsnm{Silver}, \binits{D.}},
+\oauthor{\bsnm{Wierstra}, \binits{D.}}:
+Continuous Control with Deep Reinforcement Learning.
+{arXiv}
+(2019).
+\doiurl{10.48550/arXiv.1509.02971}
+\end{botherref}
+\endbibitem
+
+%%% 19
+\bibitem{kondaActorcriticAlgorithms1999}
+\begin{botherref}
+\oauthor{\bsnm{Konda}, \binits{V.}},
+\oauthor{\bsnm{Tsitsiklis}, \binits{J.}}:
+Actor-critic algorithms.
+Advances in neural information processing systems
+\textbf{12}
+(1999)
+\end{botherref}
+\endbibitem
+
+%%% 20
+\bibitem{silver2014deterministic}
+\begin{bchapter}
+\bauthor{\bsnm{Silver}, \binits{D.}},
+\bauthor{\bsnm{Lever}, \binits{G.}},
+\bauthor{\bsnm{Heess}, \binits{N.}},
+\bauthor{\bsnm{Degris}, \binits{T.}},
+\bauthor{\bsnm{Wierstra}, \binits{D.}},
+\bauthor{\bsnm{Riedmiller}, \binits{M.}}:
+\bctitle{Deterministic policy gradient algorithms}.
+In: \bbtitle{International Conference on Machine Learning},
+pp. \bfpage{387}--\blpage{395}
+(\byear{2014}).
+\bcomment{{Pmlr}}
+\end{bchapter}
+\endbibitem
+
+%%% 21
+\bibitem{mnihPlayingAtariDeep2013a}
+\begin{botherref}
+\oauthor{\bsnm{Mnih}, \binits{V.}},
+\oauthor{\bsnm{Kavukcuoglu}, \binits{K.}},
+\oauthor{\bsnm{Silver}, \binits{D.}},
+\oauthor{\bsnm{Graves}, \binits{A.}},
+\oauthor{\bsnm{Antonoglou}, \binits{I.}},
+\oauthor{\bsnm{Wierstra}, \binits{D.}},
+\oauthor{\bsnm{Riedmiller}, \binits{M.}}:
+Playing {{Atari}} with {{Deep Reinforcement Learning}}.
+{arXiv}
+(2013).
+\doiurl{10.48550/arXiv.1312.5602}
+\end{botherref}
+\endbibitem
+
+%%% 22
+\bibitem{fujimoto2018addressing}
+\begin{bchapter}
+\bauthor{\bsnm{Fujimoto}, \binits{S.}},
+\bauthor{\bsnm{Hoof}, \binits{H.}},
+\bauthor{\bsnm{Meger}, \binits{D.}}:
+\bctitle{Addressing function approximation error in actor-critic methods}.
+In: \bbtitle{International Conference on Machine Learning},
+pp. \bfpage{1587}--\blpage{1596}
+(\byear{2018}).
+\bcomment{{PMLR}}
+\end{bchapter}
+\endbibitem
+
+%%% 23
+\bibitem{heLaneFollowingMethod2021}
+\begin{barticle}
+\bauthor{\bsnm{He}, \binits{R.}},
+\bauthor{\bsnm{Lv}, \binits{H.}},
+\bauthor{\bsnm{Zhang}, \binits{S.}},
+\bauthor{\bsnm{Zhang}, \binits{D.}},
+\bauthor{\bsnm{Zhang}, \binits{H.}}:
+\batitle{Lane {{Following Method Based}} on {{Improved DDPG Algorithm}}}.
+\bjtitle{Sensors}
+\bvolume{21}(\bissue{14}),
+\bfpage{4827}
+(\byear{2021}).
+\doiurl{10.3390/s21144827}
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem{liuReinforcementTrackingEffectiveTrajectory2022}
+\begin{barticle}
+\bauthor{\bsnm{Liu}, \binits{M.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}},
+\bauthor{\bsnm{Yin}, \binits{J.}},
+\bauthor{\bsnm{Niu}, \binits{J.}},
+\bauthor{\bsnm{Liu}, \binits{Y.}}:
+\batitle{Reinforcement-{{Tracking}}: {{An Effective Trajectory Tracking}} and
+  {{Navigation Method}} for {{Autonomous Urban Driving}}}.
+\bjtitle{IEEE Transactions on Intelligent Transportation Systems}
+\bvolume{23}(\bissue{7}),
+\bfpage{6991}--\blpage{7007}
+(\byear{2022}).
+\doiurl{10.1109/TITS.2021.3066366}
+\end{barticle}
+\endbibitem
+
+%%% 25
+\bibitem{guDeepReinforcementLearning2017}
+\begin{bchapter}
+\bauthor{\bsnm{Gu}, \binits{S.}},
+\bauthor{\bsnm{Holly}, \binits{E.}},
+\bauthor{\bsnm{Lillicrap}, \binits{T.}},
+\bauthor{\bsnm{Levine}, \binits{S.}}:
+\bctitle{Deep reinforcement learning for robotic manipulation with asynchronous
+  off-policy updates}.
+In: \bbtitle{2017 {{IEEE International Conference}} on {{Robotics}} and
+  {{Automation}} ({{ICRA}})},
+pp. \bfpage{3389}--\blpage{3396}
+(\byear{2017}).
+\doiurl{10.1109/ICRA.2017.7989385}
+\end{bchapter}
+\endbibitem
+
+%%% 26
+\bibitem{8585411}
+\begin{bbook}
+\bauthor{\bsnm{{Fran{\c c}ois-Lavet}}, \binits{V.}},
+\bauthor{\bsnm{Henderson}, \binits{P.}},
+\bauthor{\bsnm{Islam}, \binits{R.}},
+\bauthor{\bsnm{Bellemare}, \binits{M.G.}},
+\bauthor{\bsnm{Pineau}, \binits{J.}}:
+\bbtitle{An Introduction to Deep Reinforcement Learning},
+(\byear{2018})
+\end{bbook}
+\endbibitem
+
+%%% 27
+\bibitem{bellmanMarkovianDecisionProcess1957}
+\begin{botherref}
+\oauthor{\bsnm{Bellman}, \binits{R.}}:
+A {{Markovian}} decision process.
+Journal of mathematics and mechanics,
+679--684
+(1957)
+\end{botherref}
+\endbibitem
+
+%%% 28
+\bibitem{wangDuelingNetworkArchitectures2016}
+\begin{botherref}
+\oauthor{\bsnm{Wang}, \binits{Z.}},
+\oauthor{\bsnm{Schaul}, \binits{T.}},
+\oauthor{\bsnm{Hessel}, \binits{M.}},
+\oauthor{\bsnm{{van Hasselt}}, \binits{H.}},
+\oauthor{\bsnm{Lanctot}, \binits{M.}},
+\oauthor{\bsnm{{de Freitas}}, \binits{N.}}:
+Dueling {{Network Architectures}} for {{Deep Reinforcement Learning}}.
+{arXiv}
+(2016)
+\end{botherref}
+\endbibitem
+
+%%% 29
+\bibitem{vanhasseltDeepReinforcementLearning2016}
+\begin{bchapter}
+\bauthor{\bsnm{Van~Hasselt}, \binits{H.}},
+\bauthor{\bsnm{Guez}, \binits{A.}},
+\bauthor{\bsnm{Silver}, \binits{D.}}:
+\bctitle{Deep reinforcement learning with double q-learning}.
+In: \bbtitle{Proceedings of the {{AAAI}} Conference on Artificial
+  Intelligence},
+vol. \bseriesno{30}
+(\byear{2016})
+\end{bchapter}
+\endbibitem
+
+%%% 30
+\bibitem{schaulPrioritizedExperienceReplay2015}
+\begin{botherref}
+\oauthor{\bsnm{Schaul}, \binits{T.}},
+\oauthor{\bsnm{Quan}, \binits{J.}},
+\oauthor{\bsnm{Antonoglou}, \binits{I.}},
+\oauthor{\bsnm{Silver}, \binits{D.}}:
+Prioritized experience replay.
+arXiv preprint arXiv:1511.05952
+(2015)
+{\href{https://arxiv.org/abs/1511.05952}{{arxiv:1511.05952}}}
+\end{botherref}
+\endbibitem
+
+%%% 31
+\bibitem{zhaoMUSEParallelMultiScale2019}
+\begin{botherref}
+\oauthor{\bsnm{Zhao}, \binits{G.}},
+\oauthor{\bsnm{Sun}, \binits{X.}},
+\oauthor{\bsnm{Xu}, \binits{J.}},
+\oauthor{\bsnm{Zhang}, \binits{Z.}},
+\oauthor{\bsnm{Luo}, \binits{L.}}:
+{{MUSE}}: {{Parallel Multi-Scale Attention}} for {{Sequence}} to {{Sequence
+  Learning}}.
+{arXiv}
+(2019)
+\end{botherref}
+\endbibitem
+
+%%% 32
+\bibitem{1389727}
+\begin{bchapter}
+\bauthor{\bsnm{Koenig}, \binits{N.}},
+\bauthor{\bsnm{Howard}, \binits{A.}}:
+\bctitle{Design and use paradigms for {{Gazebo}}, an open-source multi-robot
+  simulator}.
+In: \bbtitle{2004 {{IEEE}}/{{RSJ}} International Conference on Intelligent
+  Robots and Systems ({{IROS}}) ({{IEEE}} Cat. {{No}}.{{04CH37566}})},
+vol. \bseriesno{3},
+pp. \bfpage{2149}--\blpage{21543}
+(\byear{2004}).
+\doiurl{10.1109/IROS.2004.1389727}
+\end{bchapter}
+\endbibitem
+
+\end{thebibliography}

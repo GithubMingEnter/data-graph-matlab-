@@ -1,0 +1,130 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: sn-mathphys.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: rl-tracking.bib
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--"{{International" isn't a brace-balanced string for entry huangEndtoEndAutonomousDriving2019
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{International" isn't a brace-balanced string for entry huangEndtoEndAutonomousDriving2019
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{International" isn't a brace-balanced string for entry huangEndtoEndAutonomousDriving2019
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry huangEndtoEndAutonomousDriving2019
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry huangEndtoEndAutonomousDriving2019
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{AAAI" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{AAAI" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{AAAI" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{Artificial" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{Artificial" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{Artificial" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Intelligence}}" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Intelligence}}" isn't a brace-balanced string for entry hilleliDeepReinforcementLearning2018
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{International" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{International" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{International" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{Advanced" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{Advanced" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{Advanced" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Technologies}}" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Technologies}}" isn't a brace-balanced string for entry ammarRobustPathTracking2020
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{IEEE" isn't a brace-balanced string for entry guDeepReinforcementLearning2017
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{IEEE" isn't a brace-balanced string for entry guDeepReinforcementLearning2017
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"{{IEEE" isn't a brace-balanced string for entry guDeepReinforcementLearning2017
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry guDeepReinforcementLearning2017
+while executing--line 2823 of file sn-mathphys.bst
+Warning--"Conference}}" isn't a brace-balanced string for entry guDeepReinforcementLearning2017
+while executing--line 2823 of file sn-mathphys.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 32 entries,
+            7385 wiz_defined-function locations,
+            1420 strings with 19663 characters,
+and the built_in function-call counts, 579972 in all, are:
+= -- 107223
+> -- 1176
+< -- 447
++ -- 65715
+- -- 421
+* -- 14087
+:= -- 101362
+add.period$ -- 50
+call.type$ -- 32
+change.case$ -- 278
+chr.to.int$ -- 1205
+cite$ -- 32
+duplicate$ -- 1524
+empty$ -- 8509
+format.name$ -- 958
+if$ -- 149220
+int.to.chr$ -- 1
+int.to.str$ -- 50
+missing$ -- 0
+newline$ -- 528
+num.names$ -- 131
+pop$ -- 913
+preamble$ -- 1
+purify$ -- 145
+quote$ -- 0
+skip$ -- 65656
+stack$ -- 0
+substring$ -- 56023
+swap$ -- 821
+text.length$ -- 512
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1218
+warning$ -- 0
+while$ -- 1141
+width$ -- 0
+write$ -- 593
+(There were 30 warnings)
