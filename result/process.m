@@ -1,5 +1,4 @@
-% SL_HW5 V2_19示例数据处理
-% V0.0.1 20220831 tkalpha
+
 clear;clc
 
 a = xlsread("data3/dtt1_a.csv");
